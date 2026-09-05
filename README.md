@@ -3,4 +3,10 @@ This repository contains a MySQL Script and data used to query some views in ord
 
 The raw data is available at: https://www.kaggle.com/datasets/yasinnaal/bikes-sales-sample-data
 
-![image](https://github.com/JOSMED18/MySQL_Business_Analysis/assets/101015892/f0c21562-a0b9-42d7-9500-0faa0921ffcc)
+<img width="1601" height="902" alt="image" src="https://github.com/user-attachments/assets/75db3119-e36d-4c94-95eb-3854bcf3d4b4" />
+
+<img width="1603" height="905" alt="image" src="https://github.com/user-attachments/assets/a022f8c1-88c6-45f5-b461-002cc91abd3b" />
+
+<img width="1603" height="899" alt="image" src="https://github.com/user-attachments/assets/101e0094-3620-4de1-a2a7-bc5b0abd8e29" />
+
+<img width="1601" height="889" alt="image" src="https://github.com/user-attachments/assets/344e5d6b-79cb-42ab-bdca-1365d5b70562" />
